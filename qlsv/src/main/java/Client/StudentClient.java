@@ -4,7 +4,7 @@
  */
 package Client;
 
-import com.vti.entity.Student;
+import com.dungop.entity.Student;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

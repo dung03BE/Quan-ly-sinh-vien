@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.vti.backend.datalayer;
+package com.dungop.backend.datalayer;
 
 import Resources.ConnectDB;
-import com.vti.entity.Student;
+import com.dungop.entity.Student;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

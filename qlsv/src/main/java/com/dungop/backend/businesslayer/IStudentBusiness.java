@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package com.vti.backend.businesslayer;
+package com.dungop.backend.businesslayer;
 
-import com.vti.entity.Student;
+import com.dungop.entity.Student;
 import java.util.List;
 
 /**

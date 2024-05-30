@@ -1,4 +1,4 @@
-package com.vti.backend.utils;
+package com.dungop.backend.utils;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;

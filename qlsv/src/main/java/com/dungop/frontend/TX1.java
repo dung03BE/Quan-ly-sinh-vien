@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.vt.frontend;
+package com.dungop.frontend;
 
 import Resources.ConnectDB;
-import com.vti.backend.presentation.StudentController;
-import com.vti.backend.utils.JdbcUtils;
-import com.vti.backend.utils.ScannerUtils;
+import com.dungop.backend.presentation.StudentController;
+import com.dungop.backend.utils.JdbcUtils;
+import com.dungop.backend.utils.ScannerUtils;
 import java.sql.Connection;
 import java.util.Scanner;
 

@@ -4,8 +4,8 @@
  */
 package Server;
 
-import com.vti.backend.presentation.StudentController;
-import com.vti.entity.Student;
+import com.dungop.backend.presentation.StudentController;
+import com.dungop.entity.Student;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
